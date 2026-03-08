@@ -1,0 +1,14 @@
+C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\release\deps\serde-173fe387c94acd8f.d: C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\release\build\serde-186afd5e359eace7\out/private.rs
+
+C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\release\deps\libserde-173fe387c94acd8f.rlib: C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\release\build\serde-186afd5e359eace7\out/private.rs
+
+C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\release\deps\libserde-173fe387c94acd8f.rmeta: C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\release\build\serde-186afd5e359eace7\out/private.rs
+
+C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\release\build\serde-186afd5e359eace7\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\pkaba\\OneDrive\\Desktop\\NJIT\\Battlesnake\\target\\release\\build\\serde-186afd5e359eace7\\out

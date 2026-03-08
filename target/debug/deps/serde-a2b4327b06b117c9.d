@@ -1,0 +1,14 @@
+C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\debug\deps\serde-a2b4327b06b117c9.d: C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\debug\build\serde-1ad4091fdd64bad9\out/private.rs
+
+C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\debug\deps\libserde-a2b4327b06b117c9.rlib: C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\debug\build\serde-1ad4091fdd64bad9\out/private.rs
+
+C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\debug\deps\libserde-a2b4327b06b117c9.rmeta: C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\debug\build\serde-1ad4091fdd64bad9\out/private.rs
+
+C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\pkaba\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\pkaba\OneDrive\Desktop\NJIT\Battlesnake\target\debug\build\serde-1ad4091fdd64bad9\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\pkaba\\OneDrive\\Desktop\\NJIT\\Battlesnake\\target\\debug\\build\\serde-1ad4091fdd64bad9\\out
