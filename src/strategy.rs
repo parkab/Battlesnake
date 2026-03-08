@@ -588,6 +588,18 @@ fn determine_aggression_mode(
     AggressionMode::Pressure
 }
 
+fn random_move(sim: &SimState, snake_idx: usize, rng: &mut impl rand::Rng) -> Direction {
+    let options: Vec<Direction> = sim.get_valid_moves(snake_idx)
+        .iter()
+        .filter_map(|&m| m)
+        .collect();
+    if options.is_empty() {
+        Direction::Up
+    } else {
+        options[rng.gen_range(0..options.len())]
+    }
+}
+
 fn rollout_survives(state: &SimState, first_move: Direction, max_turns: i32) -> bool {
     use crate::simulator::MAX_SNAKES;
     let mut rng = rand::thread_rng();
@@ -597,13 +609,7 @@ fn rollout_survives(state: &SimState, first_move: Direction, max_turns: i32) -> 
     moves[sim.my_idx as usize] = Some(first_move);
     for i in 0..sim.num_snakes as usize {
         if i != sim.my_idx as usize && sim.snakes[i].alive {
-            let valid = sim.get_valid_moves(i);
-            let options: Vec<Direction> = valid.iter().filter_map(|&m| m).collect();
-            if let Some(&m) = options.get(rng.gen_range(0..options.len().max(1))) {
-                moves[i] = Some(m);
-            } else {
-                moves[i] = Some(Direction::Up);
-            }
+            moves[i] = Some(random_move(&sim, i, &mut rng));
         }
     }
     sim = sim.advance(&moves);
@@ -619,13 +625,7 @@ fn rollout_survives(state: &SimState, first_move: Direction, max_turns: i32) -> 
         let mut moves = [None; MAX_SNAKES];
         for i in 0..sim.num_snakes as usize {
             if sim.snakes[i].alive {
-                let valid = sim.get_valid_moves(i);
-                let options: Vec<Direction> = valid.iter().filter_map(|&m| m).collect();
-                if let Some(&m) = options.get(rng.gen_range(0..options.len().max(1))) {
-                    moves[i] = Some(m);
-                } else {
-                    moves[i] = Some(Direction::Up);
-                }
+                moves[i] = Some(random_move(&sim, i, &mut rng));
             }
         }
         sim = sim.advance(&moves);
